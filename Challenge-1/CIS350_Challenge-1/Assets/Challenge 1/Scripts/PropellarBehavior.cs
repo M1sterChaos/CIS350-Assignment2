@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * (Austin Buck)
+ * (Assignment 2)
+ * (Makes propellar spin)
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

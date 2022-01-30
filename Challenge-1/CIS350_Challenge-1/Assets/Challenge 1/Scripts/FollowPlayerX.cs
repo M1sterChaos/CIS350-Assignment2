@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * (Austin Buck)
+ * (Assignment 2)
+ * (Make camera follow the player with an offset)
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * (Austin Buck)
+ * (Assignment 2)
+ * (use W and S to move player up and down)
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
